@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/account.cmd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/account.common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/account.query" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../cqrs-es/cqrs.core" vcs="Git" />
+  </component>
+</project>

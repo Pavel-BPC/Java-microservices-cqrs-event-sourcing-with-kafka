@@ -1,0 +1,24 @@
+[submodule "Bank-account-cqrs.core"]
+	path = Bank-account-cqrs.core
+	url = https://github.com/Pavel-BPC/Bank-account-cqrs.core
+[submodule "Bank-account-account.query"]
+	path = Bank-account-account.query
+	url = https://github.com/Pavel-BPC/Bank-account-account.query
+[submodule "Bank-account-account.common"]
+	path = Bank-account-account.common
+	url = https://github.com/Pavel-BPC/Bank-account-account.common
+[submodule "Bank-account-account.cmd"]
+	path = Bank-account-account.cmd
+	url = https://github.com/Pavel-BPC/Bank-account-account.cmd
+[submodule "bank-account/account.cmd"]
+	path = bank-account/account.cmd
+	url = https://github.com/Pavel-BPC/Bank-account-account.cmd
+[submodule "bank-account/account.common"]
+	path = bank-account/account.common
+	url = https://github.com/Pavel-BPC/Bank-account-account.common
+[submodule "bank-account/account.query"]
+	path = bank-account/account.query
+	url = https://github.com/Pavel-BPC/Bank-account-account.query
+[submodule "cqrs-es/cqrs.core"]
+	path = cqrs-es/cqrs.core
+	url = https://github.com/Pavel-BPC/Bank-account-cqrs.core
